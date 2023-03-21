@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactContactApp/static/css/main.e6c13ad2.css",
+    "main.js": "/ReactContactApp/static/js/main.64625c96.js",
+    "static/js/787.b6dff4bc.chunk.js": "/ReactContactApp/static/js/787.b6dff4bc.chunk.js",
+    "index.html": "/ReactContactApp/index.html",
+    "main.e6c13ad2.css.map": "/ReactContactApp/static/css/main.e6c13ad2.css.map",
+    "main.64625c96.js.map": "/ReactContactApp/static/js/main.64625c96.js.map",
+    "787.b6dff4bc.chunk.js.map": "/ReactContactApp/static/js/787.b6dff4bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.64625c96.js"
+  ]
+}
